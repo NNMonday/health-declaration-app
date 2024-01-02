@@ -1,0 +1,16 @@
+thead th {
+    max-width: 150px;
+}
+
+.error {
+    color: red
+}
+
+.input-error {
+    border-color: red;
+}
+
+.info {
+    max-width: 100px;
+    min-width: 100px;
+}
